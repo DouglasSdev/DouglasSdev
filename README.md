@@ -1,12 +1,12 @@
  # 👨🏽‍💻Douglas Apollo
 
- **`Backend Developer`**
+ **`Backend Developer Java`**
 
- Atuo com desenvolvimento backend em Python, com foco em construção de APIs, integrações e sistemas escaláveis. Tenho experiência com Django, PostgreSQL e AWS, aplicando boas práticas de estruturação, manutenção e entrega de soluções técnicas.
+ backend developer, com foco em Java e Spring Boot. Tenho direcionado meus estudos para construção de APIs REST, modelagem de dados com PostgreSQL e boas práticas de desenvolvimento backend.
 
  ---
 
- ### 🐱‍👤 Linguagens e Tecnologias
+ ### Linguagens e Tecnologias
 
 
 
@@ -18,26 +18,15 @@
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<img
+    align="left"
+    alt="SPRING"
+    title="SPRING"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
           
-
-<img
-    align="left"
-    alt="PYTHON"
-    title="PYTHON"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="DJANGO"
-    title="DJANGO"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-
 <img 
     align="left"
     alt="PostgreSQL"
@@ -74,43 +63,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 
 <br/>
 <br/>
 
-### 👨🏽‍💻Estatísticas
-
-<p>
-<img
-    align="left"
-    alt="Github Stats"
-    height="200px"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=DouglasSdev&show_icons=true&theme=tokyonight&locale=pt-br"
-/>
-
-<img
-    align="left"
-    alt="Github Stats"
-    height="184px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_counts=6"
-/>
-
-</p>
